@@ -77,6 +77,8 @@ I punti sulla mappa possono essere quartieri o zone nelle quali è suddiviso il 
 
 Aiutano a delimitare le aree  dove le segnalazioni sono state effettuale, risultando fondamentali per fini statistici.
 
+Nella definizione dei punti sulla mappa, c’è un punto principale e dei sottopunti. Il punto principale è utilizzato dal sistema per centrare la mappa all’apertura di una nuova segnalazione. Solitamente indica il punto centrale del territorio di riferimento (ad esempio il municipio).
+
 .. _h3b7c1437482f57c774c234244333a7d:
 
 Aree tematiche (categorie)
@@ -125,10 +127,26 @@ Gli altri operatori ricevono una notifica quando gli viene assegnata una segnala
 Manuale per gli utenti
 ======================
 
+Una volta effettuato l’accesso al sistema, un utente può inserire una nuova segnalazione. L’operazione è semplice anche da dispositivo mobile, dove il sistema funziona come un’app grazie alla sua interfaccia responsive.
+
 .. _h334361375e71544c25235dd3b385320:
 
 Inserimento di una segnalazione
 -------------------------------
+
+Per inserire una segnalazione, è necessario premere la voce “Segnala” dal menu principale:
+
+\ |IMG6|\ 
+
+Si apre la schermata per l’inserimento di una segnalazione. E’ visualizzata una mappa centrata sul punto centrale del territorio di riferimento (impostato dall’amministratore in fase di configurazione). 
+
+Il cittadino deve inserire una geolocalizzazione (il sistema la può evincere dai dati dello smartphone), può scegliere uno dei luoghi (quartieri, zone), il tipo di segnalazione (dalla lista delle Aree tematiche). Poi deve inserire l’oggetto e una breve descrizione. Può corredare il tutto con una fotografia, e decidere se lasciare che la segnalazione sia pubblica (default) o che essa diventi privata.
+
+\ |IMG7|\ 
+
+\ |STYLE2|\ 
+
+Una volta compilati i campi, il cittadino preme sul pulsante salva per inserire la segnalazione nel sistema. Una notifica arriva all’operatore “Riferimento per il cittadino”, che accede a sua volta al sistema. La segnalazione è presa in carico dall’amministrazione, e al cittadino non resta altro che attendere e controllare l’iter di gestione e risoluzione.
 
 
 .. bottom of content
@@ -137,6 +155,8 @@ Inserimento di una segnalazione
 .. |STYLE0| replace:: *Una segnalazione conclusa. Sulla destra la cronologia descrive l’iter di gestione delle segnalazione. In basso la risposta ufficiale al cittadino.*
 
 .. |STYLE1| replace:: *L’interfaccia di gestione di una segnalazione*
+
+.. |STYLE2| replace:: *L’interfaccia per l’inserimento di una segnalazione*
 
 .. |IMG1| image:: static/Manuale_OpenSegnalazioni_1.png
    :height: 526 px
@@ -156,4 +176,12 @@ Inserimento di una segnalazione
 
 .. |IMG5| image:: static/Manuale_OpenSegnalazioni_5.png
    :height: 318 px
+   :width: 624 px
+
+.. |IMG6| image:: static/Manuale_OpenSegnalazioni_6.png
+   :height: 44 px
+   :width: 560 px
+
+.. |IMG7| image:: static/Manuale_OpenSegnalazioni_7.png
+   :height: 377 px
    :width: 624 px
