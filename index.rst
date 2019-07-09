@@ -18,7 +18,10 @@ L’applicazione può inoltre generare \ |STYLE5|\  per misurare le performance 
 .. toctree:: 
 
     
-        funzionalita_opensegnalazioni.rst
+        come-funziona.rst
+        manuale-amminsitratore.rst
+        manuale-operatori.rst
+        manuale-utenti.rst
     
     
     
