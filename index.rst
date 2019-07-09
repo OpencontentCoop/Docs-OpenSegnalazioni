@@ -19,7 +19,7 @@ L’applicazione può inoltre generare \ |STYLE5|\  per misurare le performance 
 
     
         come-funziona.rst
-        manuale-amminsitratore.rst
+        manuale-amministratore.rst
         manuale-operatori.rst
         manuale-utenti.rst
     
