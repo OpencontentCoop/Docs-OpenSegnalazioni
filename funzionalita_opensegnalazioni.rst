@@ -2,7 +2,7 @@
 .. _h76543e41663e476b43502869623726e:
 
 Come funziona OpenSegnalazioni?
-===============================
+*******************************
 
 OpenSegnalazioni permette una \ |STYLE0|\  con i cittadini. 
 
@@ -31,12 +31,12 @@ Le segnalazioni sono visibili a chiunque visiti il sito, ma \ |STYLE4|\ .
 .. _h483207ea7c2a7b1717417f627b5f57:
 
 Manuale per l’amministratore
-============================
+****************************
 
 .. _h3d4fe431c28145ab79347f3f154058:
 
 Configura il sistema
---------------------
+====================
 
 In fase di configurazione del sistema, l’amministratore del sistema inserisce le informazioni necessarie al funzionamento dell’applicativo e crea le credenziali per gli operatori. 
 
@@ -61,7 +61,7 @@ Può anche impostare il “\ |STYLE7|\ ” (7).
 .. _h234769304a74289656e465f58665b30:
 
 Inserisci un riferimento per il cittadino (URP)
------------------------------------------------
+===============================================
 
 Durante la configurazione, uno degli operatori viene impostato come “Riferimento per il cittadino”: si tratta dell’utente che si occupa di \ |STYLE8|\ .
 
@@ -70,7 +70,7 @@ In seguito allo svolgimento dell’iter della segnalazione, con risposte “inte
 .. _h477812f57a6b654b3d34182f545d:
 
 Crea i punti sulla mappa
-------------------------
+========================
 
 I punti sulla mappa possono essere \ |STYLE10|\  o \ |STYLE11|\  nelle quali è suddiviso il territorio. Compaiono nell’interfaccia di inserimento delle segnalazioni, dove viene chiesto al segnalatore di indicare l’area, oltre alla geolocalizzazione. 
 
@@ -81,7 +81,7 @@ Nella definizione dei punti sulla mappa, c’è un punto principale e dei sottop
 .. _h4362544b57354c4b3f43804e34532e:
 
 Inserisci le Aree tematiche 
-----------------------------
+============================
 
 Il sistema ha una lista di Aree tematiche (categorie) a cui è possibile legare le segnalazioni. L’amministratore può aggiungerne o modificarne. 
 
@@ -92,12 +92,12 @@ Le Aree, così come i Punti sul territorio, sono utili per la creazione dei graf
 .. _h3846162056237f76803f10627221215f:
 
 Manuale per gli operatori
-=========================
+*************************
 
 .. _h68545712f3c317b13172146521b5729:
 
 Gestisci le segnalazioni
-------------------------
+========================
 
 Le segnalazioni in ingresso vengono assegnate all’operatore “Referente per il cittadino”. Dal dettaglio di una segnalazione, attraverso una semplice interfaccia, egli si occupa di:
 
@@ -124,12 +124,12 @@ Gli altri operatori ricevono una notifica quando gli viene assegnata una segnala
 .. _h702c771340243556366a233cb3d737:
 
 Manuale per gli utenti
-======================
+**********************
 
 .. _h112c6c6d73721023293351501d7c2c15:
 
 Registrati alla piattaforma
----------------------------
+===========================
 
 Per poter inserire una segnalazione è necessario essere registrati sulla piattaforma.
 
@@ -165,7 +165,7 @@ Una volta attivato il tuo profilo, accedi al sistema e procedi con l’inserimen
 .. _h4415848433f221aec1a14347f613e:
 
 Accedi al sistema
------------------
+=================
 
 Dopo esserti registrato al sistema, puoi accedere alla piattaforma attraverso il pulsante “Accedi”, disponibile nel menu principale. 
 
@@ -184,7 +184,7 @@ Inserisci la tua mail (la stessa che hai utilizzato durante la fase di registraz
 .. _h201e34111115357f5b8019465c5d5353:
 
 Inserisci una segnalazione
---------------------------
+==========================
 
 Una volta effettuato l’accesso al sistema, un utente può inserire una nuova segnalazione. L’operazione è semplice anche da dispositivo mobile, dove il sistema funziona come un’app grazie alla sua interfaccia responsive.
 
@@ -225,7 +225,7 @@ Se premi sul pulsante \ |STYLE18|\ , una notifica arriva all’operatore “Rife
 .. _h34571412716383f75482b307375876:
 
 Controlla lo stato della tua segnalazione
------------------------------------------
+=========================================
 
 Una volta inserita, è sempre possibile visualizzazione lo stato di avanzamento della segnalazione (fino al momento della risoluzione e della chiusura).
 
