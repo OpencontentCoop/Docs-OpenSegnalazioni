@@ -4,33 +4,43 @@
 Manuale per gli operatori
 *************************
 
-.. _h68545712f3c317b13172146521b5729:
+.. _h494359e57c4460292c384a7f24775:
 
-Gestisci le segnalazioni
-========================
+Gestisci le segnalazioni come “Referente per il cittadino”.
+===========================================================
 
-Le segnalazioni in ingresso vengono assegnate all’operatore “Referente per il cittadino”. Dal dettaglio di una segnalazione, attraverso una semplice interfaccia, egli si occupa di:
+Le segnalazioni in ingresso vengono assegnate, dal sistema, all’operatore “Referente per il cittadino”. 
 
-* dettagliare maggiormente la segnalazione, completando eventuali informazioni mancanti (ad esempio il “quartiere/zona”);
+Dal dettaglio di una segnalazione, come Referente per il cittadino, puoi, attraverso una semplice interfaccia, eseguire le seguenti operazioni:
 
-* assegnare la segnalazione agli operatori competenti nella materia oggetto della segnalazione;
+* dettagliare maggiormente la segnalazione, completando eventuali informazioni mancanti, ad esempio il “quartiere/zona” (1,2)
 
-* notificare altri operatori in copia (ad esempio responsabili di servizio);
+* impostare la scadenza (3)
 
-* aggiungere un commento che sarà visibile ai cittadini;
+* assegnare la segnalazione agli operatori competenti nella materia oggetto della segnalazione (4)
 
-* aggiungere un messaggio privato che solo gli altri operatori potranno leggere;
+* notificare altri operatori in copia, ad esempio responsabili di servizio (5)
 
-* rendere privata la segnalazione, in modo che non sia visibile solo all’amministrazione e al cittadino che l’ha aperta;
+* aggiungere un commento che sarà visibile ai cittadini (6)
 
-* chiudere la segnalazione, possibilmente dopo aver inserito un commento per il cittadino.
+* aggiungere una risposta ufficiale (7)
+
+* aggiungere un messaggio privato che solo gli altri operatori potranno leggere (8)
+
+* rendere privata la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta (9)
+
+* chiudere la segnalazione, possibilmente dopo aver inserito un commento per il cittadino (10)
 
 \ |IMG1|\ 
 
 \ |STYLE0|\ 
 
-Gli altri operatori ricevono una notifica quando gli viene assegnata una segnalazione. Aprono l’interfaccia di gestione della segnalazione e possono fare tutte le azioni descritte in precedenza, tranne chiudere la segnalazione. Infatti la chiusura spetta unicamente all’operatore Referente per il cittadino.
+.. _h775a6b6926163228c2c1b283920264:
 
+Gestisci le segnalazioni come “Operatore”.
+==========================================
+
+Gli altri operatori ricevono una notifica quando gli viene assegnata una segnalazione. Aprono l’interfaccia di gestione della segnalazione e possono fare tutte le azioni descritte in precedenza, tranne chiudere la segnalazione. Infatti la chiusura spetta unicamente all’operatore Referente per il cittadino.
 
 .. bottom of content
 
@@ -38,5 +48,5 @@ Gli altri operatori ricevono una notifica quando gli viene assegnata una segnala
 .. |STYLE0| replace:: *L’interfaccia di gestione di una segnalazione*
 
 .. |IMG1| image:: static/Manuale_per_gli_operatori_1.png
-   :height: 318 px
+   :height: 569 px
    :width: 624 px
