@@ -13,7 +13,9 @@ Dopo aver ricevuto le credenziali di accesso al sistema come \ |STYLE0|\ , puoi 
 
 \ |IMG1|\ 
 
-Inserisci le credenziali (indirizzo mail e password) da te impostate in fase di primo accesso alla piattaforma (1).
+Al primo accesso ti verrà chiesto di creare una nuova password.
+
+Durante i successivi accessi, inserisci le credenziali (indirizzo mail e password) da te impostate in fase di primo accesso alla piattaforma (1).
 
 \ |IMG2|\ 
 
@@ -168,7 +170,7 @@ Attraverso questa schermata è possibile modificare:
 
 * il sottotitolo (3)
 
-* il Banner (4)
+* il banner (4)
 
 * il titolo del banner (5)
 
