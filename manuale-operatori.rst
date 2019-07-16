@@ -17,7 +17,7 @@ Dopo aver ricevuto le credenziali di accesso al sistema come \ |STYLE2|\ , puoi 
 
 \ |IMG1|\ 
 
-Al primo accesso ti verrà chiesto di creare una nuova passoword.
+Al primo accesso ti verrà chiesto di creare una nuova password.
 
 Durante i successivi accessi, inserisci le credenziali (indirizzo mail e password) da te impostate in fase di primo accesso alla piattaforma (1).
 
