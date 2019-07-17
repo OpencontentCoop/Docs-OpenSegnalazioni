@@ -74,7 +74,7 @@ Rendi la segnalazione privata
 =============================
 
 
-Come \ |STYLE15|\ , puoi rendere privata la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta. Per farlo clicca sul pulsante Rendi la segnalazione privata. 
+Come \ |STYLE15|\ , puoi rendere privata la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta. Per farlo clicca sul pulsante \ |STYLE16|\ . 
 
 \ |IMG8|\ 
 
@@ -84,7 +84,7 @@ Rendi la segnalazione pubblica
 ==============================
 
 
-Come \ |STYLE16|\ , puoi rendere pubblica la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta. Per farlo clicca sul pulsante Rendi la segnalazione privata. 
+Come \ |STYLE17|\ , puoi rendere pubblica la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta. Per farlo clicca sul pulsante \ |STYLE18|\ . 
 
 .. _h3d1362691ed2024756f2e4f1931572:
 
@@ -105,15 +105,15 @@ Come \ |STYLE16|\ , puoi rendere pubblica la segnalazione, in modo che sia visib
 Assegna la segnalazione all’operatore competente
 ================================================
 
-Come \ |STYLE17|\ , puoi assegnare la segnalazione all’operatore competente nella materia oggetto della segnalazione. Per farlo inserisci il nome dell’operatore all’interno del campo “Seleziona operatore” e clicca poi sull’Operatore che desideri selezionare. Infine, clicca sul pulsante \ |STYLE18|\ . Una volta assegnata la segnalazione, l’Operatore selezionato riceverà una \ |STYLE19|\ .
+Come \ |STYLE19|\ , puoi assegnare la segnalazione all’operatore competente nella materia oggetto della segnalazione. Per farlo inserisci il nome dell’operatore all’interno del campo “Seleziona operatore” e clicca poi sull’Operatore che desideri selezionare. Infine, clicca sul pulsante \ |STYLE20|\ . Una volta assegnata la segnalazione, l’Operatore selezionato riceverà una \ |STYLE21|\ .
 
 \ |IMG10|\ 
 
-Come \ |STYLE20|\ , puoi ri-assegnare la segnalazione ad un altro Operatore oppure al Referente per il cittadino per la chiusura. Per assegnare un segnalazione, inserisci il nome dell’operatore all’interno del campo “Seleziona operatore” e clicca poi sull’Operatore che desideri selezionare. Infine, clicca sul pulsante \ |STYLE21|\ . Una volta assegnata la segnalazione, l’Operatore selezionato riceverà una \ |STYLE22|\ .
+Come \ |STYLE22|\ , puoi ri-assegnare la segnalazione ad un altro Operatore oppure al Referente per il cittadino per la chiusura. Per assegnare un segnalazione, inserisci il nome dell’operatore all’interno del campo “Seleziona operatore” e clicca poi sull’Operatore che desideri selezionare. Infine, clicca sul pulsante \ |STYLE23|\ . Una volta assegnata la segnalazione, l’Operatore selezionato riceverà una \ |STYLE24|\ .
 
 \ |IMG11|\ 
 
-Come \ |STYLE23|\  o \ |STYLE24|\ , nel momento dell’assegnazione o della ri-assegnazione della segnalazione puoi \ |STYLE25|\  quindi altri Operatori, anch’essi - per esempio - responsabili del servizio. Per farlo inerisci il nome dell’operatore all’interno della seconda riga che trovi nel campo Azioni. Clicca sull’Operatore che desideri selezionare e infine clicca sul pulsante \ |STYLE26|\ .
+Come \ |STYLE25|\  o \ |STYLE26|\ , nel momento dell’assegnazione o della ri-assegnazione della segnalazione puoi \ |STYLE27|\  quindi altri Operatori, anch’essi - per esempio - responsabili del servizio. Per farlo inerisci il nome dell’operatore all’interno della seconda riga che trovi nel campo Azioni. Clicca sull’Operatore che desideri selezionare e infine clicca sul pulsante \ |STYLE28|\ .
 
 \ |IMG12|\ 
 
@@ -122,7 +122,7 @@ Come \ |STYLE23|\  o \ |STYLE24|\ , nel momento dell’assegnazione o della ri-a
 Aggiungi un messaggio privato 
 ==============================
 
-Come \ |STYLE27|\  o \ |STYLE28|\ , puoi aggiungere uno o più commenti privati che potranno essere visibili a tutti gli altri operatori oppure solo a te stesso. Inserisci il commento privato, seleziona chi desideri che legga il commento privato (“Solo te stesso”; altri Operatori) e clicca poi su \ |STYLE29|\ . 
+Come \ |STYLE29|\  o \ |STYLE30|\ , puoi aggiungere uno o più commenti privati che potranno essere visibili a tutti gli altri operatori oppure solo a te stesso. Inserisci il commento privato, seleziona chi desideri che legga il commento privato (“Solo te stesso”; altri Operatori) e clicca poi su \ |STYLE31|\ . 
 
 \ |IMG13|\ 
 
@@ -131,7 +131,7 @@ Come \ |STYLE27|\  o \ |STYLE28|\ , puoi aggiungere uno o più commenti privati 
 Aggiungi un commento pubblico 
 ==============================
 
-Come \ |STYLE30|\  o \ |STYLE31|\ , puoi aggiungere uno o più commenti che saranno visibili a tutti. Inserisci il commento che desideri pubblicare e clicca sul pulsante \ |STYLE32|\ .
+Come \ |STYLE32|\  o \ |STYLE33|\ , puoi aggiungere uno o più commenti che saranno visibili a tutti. Inserisci il commento che desideri pubblicare e clicca sul pulsante \ |STYLE34|\ .
 
 \ |IMG14|\ 
 
@@ -145,7 +145,7 @@ Come \ |STYLE30|\  o \ |STYLE31|\ , puoi aggiungere uno o più commenti che sara
 Termina l’intervento
 ====================
 
-Come \ |STYLE33|\  incaricato, una volta risolta la problematica segnalata, puoi terminare l’intervento cliccando sul pulsante \ |STYLE34|\ . Se lo desideri, puoi inserire contestualmente un commento pubblico.
+Come \ |STYLE35|\  incaricato, una volta risolta la problematica segnalata, puoi terminare l’intervento cliccando sul pulsante \ |STYLE36|\ . Se lo desideri, puoi inserire contestualmente un commento pubblico.
 
 Una volta terminato l’intervento. verrà inviata una notifica via mail al Referente per il cittadino il quale provvederà a chiudere la segnalazione, fornendo possibilmente una risposta ufficiale alla segnalazione.
 
@@ -158,7 +158,7 @@ Una volta terminato l’intervento. verrà inviata una notifica via mail al Refe
 Aggiungi una risposta ufficiale
 ===============================
 
-Come \ |STYLE35|\ , puoi aggiungere una risposta ufficiale che sarà visibili a tutti. Inserisci la risposta ufficiale che desideri pubblicare e clicca sul pulsante \ |STYLE36|\ .
+Come \ |STYLE37|\ , puoi aggiungere una risposta ufficiale che sarà visibili a tutti. Inserisci la risposta ufficiale che desideri pubblicare e clicca sul pulsante \ |STYLE38|\ .
 
 \ |IMG16|\ 
 
@@ -172,11 +172,11 @@ Come \ |STYLE35|\ , puoi aggiungere una risposta ufficiale che sarà visibili a 
 Chiudi la segnalazione
 ======================
 
-Come \ |STYLE37|\ , puoi chiudere la segnalazione, possibilmente dopo aver inserito un commento per il cittadino o una risposta ufficiale. Per farlo clicca sul pulsante \ |STYLE38|\ . 
+Come \ |STYLE39|\ , puoi chiudere la segnalazione, possibilmente dopo aver inserito un commento per il cittadino o una risposta ufficiale. Per farlo clicca sul pulsante \ |STYLE40|\ . 
 
 \ |IMG17|\ 
 
-Se la segnalazione è, al momento, assegnata ad un altro operatore puoi forzare la chiusura della segnalazione attraverso il pulsante \ |STYLE39|\ .
+Se la segnalazione è, al momento, assegnata ad un altro operatore puoi forzare la chiusura della segnalazione attraverso il pulsante \ |STYLE41|\ .
 
 .. _h42564e192d33a1681b112e1b38764c:
 
@@ -218,53 +218,57 @@ Se la segnalazione è, al momento, assegnata ad un altro operatore puoi forzare 
 
 .. |STYLE15| replace:: **Referente per il cittadino**
 
-.. |STYLE16| replace:: **Referente per il cittadino**
+.. |STYLE16| replace:: **Rendi la segnalazione privata**
 
 .. |STYLE17| replace:: **Referente per il cittadino**
 
-.. |STYLE18| replace:: **Assegna**
+.. |STYLE18| replace:: **Rendi la segnalazione pubblica**
 
-.. |STYLE19| replace:: **notifica via mail**
+.. |STYLE19| replace:: **Referente per il cittadino**
 
-.. |STYLE20| replace:: **Operatore**
+.. |STYLE20| replace:: **Assegna**
 
-.. |STYLE21| replace:: **Assegna**
+.. |STYLE21| replace:: **notifica via mail**
 
-.. |STYLE22| replace:: **notifica via mail**
+.. |STYLE22| replace:: **Operatore**
 
-.. |STYLE23| replace:: **Operatore**
+.. |STYLE23| replace:: **Assegna**
 
-.. |STYLE24| replace:: **Referente per il cittadino**
+.. |STYLE24| replace:: **notifica via mail**
 
-.. |STYLE25| replace:: **inserire in copia e notificare**
+.. |STYLE25| replace:: **Operatore**
 
-.. |STYLE26| replace:: **Aggiungi cc**
+.. |STYLE26| replace:: **Referente per il cittadino**
 
-.. |STYLE27| replace:: **Operatore**
+.. |STYLE27| replace:: **inserire in copia e notificare**
 
-.. |STYLE28| replace:: **Referente per il cittadino**
+.. |STYLE28| replace:: **Aggiungi cc**
 
-.. |STYLE29| replace:: **Invia messaggio**
+.. |STYLE29| replace:: **Operatore**
 
-.. |STYLE30| replace:: **Operatore**
+.. |STYLE30| replace:: **Referente per il cittadino**
 
-.. |STYLE31| replace:: **Referente per il cittadino**
+.. |STYLE31| replace:: **Invia messaggio**
 
-.. |STYLE32| replace:: **Pubblica il commento**
+.. |STYLE32| replace:: **Operatore**
 
-.. |STYLE33| replace:: **Operatore**
+.. |STYLE33| replace:: **Referente per il cittadino**
 
-.. |STYLE34| replace:: **Termina intervento**
+.. |STYLE34| replace:: **Pubblica il commento**
 
-.. |STYLE35| replace:: **Referente per il cittadino**
+.. |STYLE35| replace:: **Operatore**
 
-.. |STYLE36| replace:: **Pubblica la risposta ufficiale**
+.. |STYLE36| replace:: **Termina intervento**
 
 .. |STYLE37| replace:: **Referente per il cittadino**
 
-.. |STYLE38| replace:: **Chiudi**
+.. |STYLE38| replace:: **Pubblica la risposta ufficiale**
 
-.. |STYLE39| replace:: **Forza chiusura**
+.. |STYLE39| replace:: **Referente per il cittadino**
+
+.. |STYLE40| replace:: **Chiudi**
+
+.. |STYLE41| replace:: **Forza chiusura**
 
 .. |IMG1| image:: static/Manuale_per_gli_operatori_1.png
    :height: 364 px
