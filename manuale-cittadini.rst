@@ -133,46 +133,46 @@ Sulla destra, controlla il box \ |STYLE7|\ .
 
 .. |STYLE7| replace:: **Cronologia**
 
-.. |IMG1| image:: static/Manuale_per_gli_utenti_1.png
+.. |IMG1| image:: static/Manuale_per_i_cittadini_1.png
    :height: 264 px
    :width: 624 px
 
-.. |IMG2| image:: static/Manuale_per_gli_utenti_2.png
+.. |IMG2| image:: static/Manuale_per_i_cittadini_2.png
    :height: 272 px
    :width: 497 px
 
-.. |IMG3| image:: static/Manuale_per_gli_utenti_3.png
+.. |IMG3| image:: static/Manuale_per_i_cittadini_3.png
    :height: 377 px
    :width: 504 px
 
-.. |IMG4| image:: static/Manuale_per_gli_utenti_4.png
+.. |IMG4| image:: static/Manuale_per_i_cittadini_4.png
    :height: 320 px
    :width: 608 px
 
-.. |IMG5| image:: static/Manuale_per_gli_utenti_5.png
+.. |IMG5| image:: static/Manuale_per_i_cittadini_5.png
    :height: 364 px
    :width: 624 px
 
-.. |IMG6| image:: static/Manuale_per_gli_utenti_6.png
+.. |IMG6| image:: static/Manuale_per_i_cittadini_6.png
    :height: 262 px
    :width: 624 px
 
-.. |IMG7| image:: static/Manuale_per_gli_utenti_7.png
+.. |IMG7| image:: static/Manuale_per_i_cittadini_7.png
    :height: 172 px
    :width: 624 px
 
-.. |IMG8| image:: static/Manuale_per_gli_utenti_8.png
+.. |IMG8| image:: static/Manuale_per_i_cittadini_8.png
    :height: 44 px
    :width: 560 px
 
-.. |IMG9| image:: static/Manuale_per_gli_utenti_9.png
+.. |IMG9| image:: static/Manuale_per_i_cittadini_9.png
    :height: 245 px
    :width: 624 px
 
-.. |IMG10| image:: static/Manuale_per_gli_utenti_10.png
+.. |IMG10| image:: static/Manuale_per_i_cittadini_10.png
    :height: 377 px
    :width: 624 px
 
-.. |IMG11| image:: static/Manuale_per_gli_utenti_11.png
+.. |IMG11| image:: static/Manuale_per_i_cittadini_11.png
    :height: 378 px
    :width: 400 px
