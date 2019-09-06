@@ -84,7 +84,7 @@ Rendi la segnalazione pubblica
 ==============================
 
 
-Come \ |STYLE17|\ , puoi rendere pubblica la segnalazione, in modo che sia visibile solo all’amministrazione e al cittadino che l’ha aperta. Per farlo clicca sul pulsante \ |STYLE18|\ . 
+Come \ |STYLE17|\ , puoi rendere pubblica la segnalazione, in modo che sia visibile a tutti. Per farlo clicca sul pulsante \ |STYLE18|\ . 
 
 .. _h3d1362691ed2024756f2e4f1931572:
 
